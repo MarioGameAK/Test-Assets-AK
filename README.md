@@ -1,2 +1,2 @@
-# Test-Assets-AK
-Test Assets taken from organization "ics4uboys"
+# testassets
+These are the assets for the test next week
